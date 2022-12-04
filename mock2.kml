@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Hidden Lake Area Trees.kml</name>
+	<Style id="s_ylw-pushpin_hl04">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0011">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin03100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl060</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl060">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0310">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl04</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl06000">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0310</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl06000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin03100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Hidden Lake Area</name>
+		<visibility>0</visibility>
+		<open>1</open>
+		<Placemark>
+			<name>Tamarack (aka Larch)</name>
+			<visibility>0</visibility>
+			<description>Larch.  It&apos;s hard not to think of Monty Python&apos;s Lumberjack sketch!  But the common name for our native larch is Tamarack.  It&apos;s distinguished by being the only conifer that is deciduous.  Its needles, in tufts of 15 or more, turn a brilliant golden yellow in autumn and then fall off.  New needles emerge in the spring like other deciduous trees along with small, rosy pink cones.  Tamaracks are large trees that grow in swamps and wetlands; they can tolerate some drought, but will not be robust.  The city planted these two trees, and other native species, to naturalize the perimeter of the stormwater dry pond.  The Tamarack is host for many moth larva, which feed other wildlife.  If you have the space, plant our native Tamarack and not the European Larch.  Provide it will full sun and consistent moisture and enjoy its delicate beauty.  To learn more about Tamaracks:  https://arboretum.uoguelph.ca/thingstosee/trees/tamarack</description>
+			<LookAt>
+				<gx:TimeStamp><when>2022-06-30T22:51:33Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-76.03736619215275</longitude>
+				<latitude>45.35172399609991</latitude>
+				<altitude>0</altitude>
+				<heading>0.1519535150371348</heading>
+				<tilt>30.72072326585216</tilt>
+				<range>243.8911443051275</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.03763554581211,45.35158320093235,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Slippery Elm</name>
+			<visibility>0</visibility>
+			<description>Many people don&apos;t know that there are three native elm trees that grow in Ottawa:  American Elm, Slippery Elm, and Rock Elm.  Slippery Elm is distinguished from the more common American Elm by its scaly bark, upright growth form, and large leaves.  Like other elms, Slippery Elm is susceptible to Dutch Elm Disease.  It is much less common than American Elm, but there is a scattered population of them in Kanata North and in the Carp Hills where the Precambrain bedrock is not acidic gneiss. A Slippery Elm also grows in the St. James Cemetery.
+The name &quot;Slippery&quot; comes from the muscilaginous bark, which has medicinal use as a demulcent, soothing irritation in the gut.
+To learn more about Slippery Elm and how to identify it: https://treescanadensis.ca/ulmus-rubra-slippery-elm/</description>
+			<LookAt>
+				<gx:TimeStamp><when>2022-06-30T22:51:33Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-76.0365548415383</longitude>
+				<latitude>45.35201898059304</latitude>
+				<altitude>0</altitude>
+				<heading>0.1525307343441653</heading>
+				<tilt>31.37125725476881</tilt>
+				<range>372.197572469034</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin16</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.03644300000001,45.352019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rock Elm</name>
+			<visibility>0</visibility>
+			<description>Many people don&apos;t know that there are three native elm trees that grow in Ottawa:  American Elm, Slippery Elm, and Rock Elm.  Rock Elm is distinguished from the more common American Elm by its preference for rocky alkaline uplands, its corky twigs (similar to Bur Oak), and its downward arching lower branches.  Like other elms, Rock Elm is susceptible to Dutch Elm Disease.  It is much less common than American Elm, but there is a widespread population of them in North Kanata.  In Carp, they grow on the Ridge in the few places where the Precambrain bedrock is marble (alkaline) instead of acidic gneiss.  Can you identify smaller Rock Elms (and Slippery Elms) growing along this side of Juanita Avenue as you walk up the hill?
+Learn more about Rock Elms: https://treescanadensis.ca/ulmus-thomasii-rock-elm/</description>
+			<LookAt>
+				<gx:TimeStamp><when>2022-06-30T22:51:33Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-76.03622747448472</longitude>
+				<latitude>45.35222539369134</latitude>
+				<altitude>0</altitude>
+				<heading>131.8509097435518</heading>
+				<tilt>45.49800149571307</tilt>
+				<range>102.5879638951178</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0011</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.0361618781785,45.3522284376029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hidden Lake Park</name>
+			<visibility>0</visibility>
+			<description>The 650 meter pathway through Hidden Lake Park showcases many trees in a natural woodland setting. Unlike most of the acidic Carp Ridge, the bedrock in the park is Precambrian marble (alkaline and calcium), which means that more species of plants can grow here due to better nutrient availability. Some tree indicators of this soil chemistry are the Eastern White Cedars, Black Cherries, Sugar Maples, Butternuts, and Basswood. Plant indicators are Prickly Ash, White Trillium, and Bluestem Goldenrod. Other trees that grow here are: Red Maple, White Pine, Red Oak, American Elm, and Red Maple. You should be able to use your tree ID skills from individual trees on this walking tour to find these trees!  The Hidden Lake woodland is probably less than 90 years old. Counting the rings on a recently removed large White Pine stump yields a number around 75. If you&apos;d like to learn about how soil chemistry affects what plants will grow, read the Crazy Horse Trail interpretive guide, which describes the abrupt change from marble to gneissic bedrock on the trail. https://carphills.com/?page_id=393</description>
+			<LookAt>
+				<gx:TimeStamp><when>2005-05-17T22:00:35.461896419Z</when>
+</gx:TimeStamp>
+				<longitude>-76.03959391549927</longitude>
+				<latitude>45.35467298591907</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002347895128901839</heading>
+				<tilt>22.34382490328018</tilt>
+				<range>562.5819686951911</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.03752780382784,45.35416423305513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paper Birch</name>
+			<visibility>0</visibility>
+			<description>Paper Birch is an iconic Canadian tree.  Its bark is waterproof, hence its use by First Nations peoples for birch bark canoes.  There are many mature Paper Birch growing in Hidden Lake Park.  This is a young sapling whose bark and leaves you can easily examine.  Note that the bark peels in curling, horizontal sheets, revealing a light orange inner bark.  This is a major differentiator from European White Birch, whose bark peels in thin, horizontal strands with light grey inner bark.  European White Birch are planted on lawns throughout Carp.  They have a weeping appearance from their pendulous branches.  Our native Paper Birch is a better choice for the benefits it provides to wildlife.  It&apos;s also highly tolerant of many conditions, but needs full sun and will likely not live longer than 80 years.  Learn more about Paper Birch:  https://arboretum.uoguelph.ca/thingstosee/trees/paperbirch</description>
+			<LookAt>
+				<gx:TimeStamp><when>2005-05-17T22:00:35.461896419Z</when>
+</gx:TimeStamp>
+				<longitude>-76.03959391549927</longitude>
+				<latitude>45.35467298591907</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002347895128901839</heading>
+				<tilt>22.34382490328018</tilt>
+				<range>562.5819686951911</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin001</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.03746933043109,45.35439554352804,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eastern White Cedar</name>
+			<visibility>0</visibility>
+			<description>This Eastern White Cedar growing at the base of the stairs is probably 100 years old.  How do we know?  You can roughly estimate a cedar&apos;s age by its diameter.  Every one foot of diameter equals 100 years of growth.  This is approximate since growing conditions can vary, but the method has proven to be a pretty good rule of thumb.
+Did you know that there are Old Growth Eastern White Cedars growing in a suburban woodland in Stittsville?  At least of the trees are over 200 years old (from core samples) making them older than Confederation!
+Find out more about Kemp Woodland:  https://treescanadensis.ca/kemp-woodland/</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2015-03-25T06:41:06.496514374Z</begin>
+					<end>2022-08-20T16:30:03Z</end>
+				</gx:TimeSpan>
+				<longitude>-76.03916760987389</longitude>
+				<latitude>45.35465360538678</latitude>
+				<altitude>0</altitude>
+				<heading>-2.864389262965992</heading>
+				<tilt>31.47386538817205</tilt>
+				<range>646.9124523034104</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.03805147337543,45.35477522479615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Prickly Ash</name>
+			<visibility>0</visibility>
+			<description>Right where the path makes a sharp turn to the south is a patch of Prickly Ash.  And here is the problem with common names: this plant is not an Ash and it&apos;s not even a tree! It is a small shrub that looks like an Ash, but with vicious thorns.  It prefers alkaline growing conditions and loves the marble bedrock in Hidden Lake.  What makes this plant particularly special is that it is in the Citrus family.  Yep, it&apos;s related to oranges and tangerines.  Our largest butterfly, the Giant Swallowtail, must lay its eggs on citrus plants.  So Prickly Ash is the only native plant in our area that allows the Giant Swallowtail butterfly to reproduce.  In fact, the Giant Swallowtail has only recently extended its range north into the Ottawa Valley and you can thank Prickly Ash!
+(Note:  the Hop Tree that is native to southern Ontario is also in the Citrus family and is also a host for the Giant Swallowtail larva.)
+Learn more about Prickly Ash and butterflies: https://beauxarbres.ca/2018/09/16/giant-swallowtail-caterpillar/</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2015-03-25T06:41:06.496514374Z</begin>
+					<end>2022-08-20T16:30:03Z</end>
+				</gx:TimeSpan>
+				<longitude>-76.04089871095128</longitude>
+				<latitude>45.35540831682393</latitude>
+				<altitude>0</altitude>
+				<heading>-2.865620757366492</heading>
+				<tilt>31.47271403259031</tilt>
+				<range>401.3927518403515</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.04129551887495,45.35562144478872,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Butternut</name>
+			<visibility>0</visibility>
+			<description>Hidden Lake Park is home to two mature Butternuts.  Both are infected with the Butternut canker fungus, but this one seems to be doing well.  Most Butternuts die within a couple of years from this infection, which looks like black, rotting lesions on the bark.  Ontario has designated Butternuts as Endangered.  To find this tree, search on the south side of the trail about 50 meters from the Prickly Ash.  Look for dark brown bark with interlaced ridges.  Look up to see grey/brown limbs spread wide with leaves growing in a line opposite each other like a fern.  The Butternut&apos;s nut is nutritious and rich in oil.  The death of these trees is a loss for wildlife and humans.
+Read more about Butternuts: https://www.ontario.ca/page/butternut-species-risk
+Read more about Butternut canker: https://www.ontario.ca/page/butternut-canker</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2015-03-25T06:41:06.496514374Z</begin>
+					<end>2022-08-20T16:30:03Z</end>
+				</gx:TimeSpan>
+				<longitude>-76.04089778298798</longitude>
+				<latitude>45.35539529902977</latitude>
+				<altitude>0</altitude>
+				<heading>-2.865620096332588</heading>
+				<tilt>31.47385988200681</tilt>
+				<range>645.7386086834035</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.0416280434499,45.35500130479366,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ironwood</name>
+			<visibility>0</visibility>
+			<description>Ironwood is a slow growing, understory tree famous for the density of its wood.  It is in the same family as Birch trees.  Its attractive, hop-like fruiting clusters give it another common name, Hop Hornbeam, but it is not a Hop tree.  It is relatively easy to identify when mature due to its vertically shaggy bark.  Ironwood provides food for wildlife and many insects.  Cows like it too!  Multi-stemmed Ironwoods in the Carp Hills are evidence of past cattle grazing.  Ironwood is not usually grown as a yard tree, but would be appropriate for a shady area.   Learn more about Ironwood: https://arboretum.uoguelph.ca/thingstosee/trees/ironwood</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2015-03-25T06:41:06.496514374Z</begin>
+					<end>2022-08-20T16:30:03Z</end>
+				</gx:TimeSpan>
+				<longitude>-76.04130181719628</longitude>
+				<latitude>45.35412217765573</latitude>
+				<altitude>0</altitude>
+				<heading>-2.865907708453546</heading>
+				<tilt>31.47386538736226</tilt>
+				<range>646.9124346526274</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.04213335803487,45.3550721913001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

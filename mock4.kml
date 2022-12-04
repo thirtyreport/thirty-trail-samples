@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Hidden Lake Area</name>
+    <Style id="icon-1720-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1720-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1720-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1720-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1720-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1886-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1886-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1886-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1886-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1886-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Ironwood</name>
+      <description><![CDATA[<img src="https://doc-00-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/6f1j8p75st2ett7li6v2ei9u2k/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9k5ywV_JKAej7bV3esCLekORSqdgvxCsfiEzhuYQOEOG2BcJgvIKHg4cf8-xbK3wMBML-OxwE-gdKKwIykUJu-fQbhIehCstFlid_OGgOrDHG53fw8IG5ESh456ygypB1d7UDqfvCBCSt1B-b9k2LP35DSGYBiZqnn_UDYj_EGoSWYokJ6k3r9YxIDBYbjNOhI?session=2&fife" height="200" width="auto" /><br><br>Ironwood is a slow growing, understory tree famous for the density of its wood. It is in the same family as Birch trees. Its attractive, hop-like fruiting clusters give it another common name, Hop Hornbeam, but it is not a Hop tree. It is relatively easy to identify when mature due to its vertically shaggy bark. Ironwood provides food for wildlife and many insects. Cows like it too! Multi-stemmed Ironwoods in the Carp Hills are evidence of past cattle grazing. Ironwood is not usually grown as a yard tree, but would be appropriate for a shady area. Learn more about Ironwood: https://arboretum.uoguelph.ca/thingstosee/trees/ironwood<br><br><img src="https://doc-14-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/4tmcon9kpdouhqkd12t9fjmcn4/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kd9Tc1RZpmqGAVFvziynEbp_tvOQYcuCU7-36_bOkQOUFipSfvXIqQQANi6Cljg7RThzBBHUvA2amT45B95w_tCwEjuKTayEk1fYu9IPYRs8PVywxvOqT6yGTbdSuFdaGPvyQfikVrHAy-5j23ulHCbgMD_VvAm992URFME6GrFMQTpsX0KxvMr8UyjB859dc?session=2&fife" height="200" width="auto" /><br><br><img src="https://doc-0s-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/iuqs1rh70b05dsosfi4k7ogrhk/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9ldzMyAIESx6Ao71raDprUDhnce6kns64H2EezoBmV7lhaL9wfkgvRgq-F0Zst67_9Q_tzn_AD6IJ2GsxaiPZfz76-bnQczYnFEWCN5MQ557_cPqPIUQKLHhR22KEE55-o2LWHb1s0U8ZEPcQOTwxkKt7e1NaoaEWrPJGIsfdSTMTwSH2s4PGv-sFmNzybi8sE?session=2&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1886-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/6f1j8p75st2ett7li6v2ei9u2k/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9k5ywV_JKAej7bV3esCLekORSqdgvxCsfiEzhuYQOEOG2BcJgvIKHg4cf8-xbK3wMBML-OxwE-gdKKwIykUJu-fQbhIehCstFlid_OGgOrDHG53fw8IG5ESh456ygypB1d7UDqfvCBCSt1B-b9k2LP35DSGYBiZqnn_UDYj_EGoSWYokJ6k3r9YxIDBYbjNOhI?session=2&fife https://doc-14-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/4tmcon9kpdouhqkd12t9fjmcn4/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kd9Tc1RZpmqGAVFvziynEbp_tvOQYcuCU7-36_bOkQOUFipSfvXIqQQANi6Cljg7RThzBBHUvA2amT45B95w_tCwEjuKTayEk1fYu9IPYRs8PVywxvOqT6yGTbdSuFdaGPvyQfikVrHAy-5j23ulHCbgMD_VvAm992URFME6GrFMQTpsX0KxvMr8UyjB859dc?session=2&fife https://doc-0s-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/iuqs1rh70b05dsosfi4k7ogrhk/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9ldzMyAIESx6Ao71raDprUDhnce6kns64H2EezoBmV7lhaL9wfkgvRgq-F0Zst67_9Q_tzn_AD6IJ2GsxaiPZfz76-bnQczYnFEWCN5MQ557_cPqPIUQKLHhR22KEE55-o2LWHb1s0U8ZEPcQOTwxkKt7e1NaoaEWrPJGIsfdSTMTwSH2s4PGv-sFmNzybi8sE?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.0423323,45.3552681,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Butternut</name>
+      <description><![CDATA[<img src="https://doc-10-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/9e1jpm73r69g40ald43eqfihcc/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kiN3VWdUTEfikv8rXdNeENmoFYR0l3XwvSK2jscXIwo43vi4ajtSpAKaKVdU9p5IEuVKt-lIcmQ6gDdDvPWEGnDEXBO8L9KCzSsPVlL09gUpzqHQ47_lQT_2gqBmL4batabXFueajwjMVTHki9SMxsm1FIhRZUevUgnBkQ7e1d86A-24gn2ISET9uuaP_gHmE?session=2&fife" height="200" width="auto" /><br><br>Hidden Lake Park is home to two mature Butternuts. Both are infected with the Butternut canker fungus, but this one seems to be doing well. Most Butternuts die within a couple of years from this infection, which looks like black, rotting lesions on the bark. Ontario has designated Butternuts as Endangered. To find this tree, search on the south side of the trail about 50 meters from the Prickly Ash. Look for dark brown bark with interlaced ridges. Look up to see grey/brown limbs spread wide with leaves growing in a line opposite each other like a fern. The Butternut's nut is nutritious and rich in oil. The death of these trees is a loss for wildlife and humans.<br>Read more about Butternuts: https://www.ontario.ca/page/butternut-species-risk<br>Read more about Butternut canker: https://www.ontario.ca/page/butternut-canker<br><br><img src="https://doc-10-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/pgqvmcgi1qtjpu8pir5pjj5ad4/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kqDu0TUuCmU62TldHEEcZpBzOv4qEVq-sLb7C9857AVCqmmH7lK_Um9NuGGwy5l8-VBMGheV74fuEY3uh5GGcuoGSZGCP7YWyLjaNsAbpVDaoGhvYYRk8BKt0OI915OC2Dg6fDZPDEDBgKJMvADQI3hU89B73ljhDNoTLS7OEF-9cgSQ6F_DpRamYgVQfX5ug?session=2&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1886-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/9e1jpm73r69g40ald43eqfihcc/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kiN3VWdUTEfikv8rXdNeENmoFYR0l3XwvSK2jscXIwo43vi4ajtSpAKaKVdU9p5IEuVKt-lIcmQ6gDdDvPWEGnDEXBO8L9KCzSsPVlL09gUpzqHQ47_lQT_2gqBmL4batabXFueajwjMVTHki9SMxsm1FIhRZUevUgnBkQ7e1d86A-24gn2ISET9uuaP_gHmE?session=2&fife https://doc-10-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/pgqvmcgi1qtjpu8pir5pjj5ad4/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kqDu0TUuCmU62TldHEEcZpBzOv4qEVq-sLb7C9857AVCqmmH7lK_Um9NuGGwy5l8-VBMGheV74fuEY3uh5GGcuoGSZGCP7YWyLjaNsAbpVDaoGhvYYRk8BKt0OI915OC2Dg6fDZPDEDBgKJMvADQI3hU89B73ljhDNoTLS7OEF-9cgSQ6F_DpRamYgVQfX5ug?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.0418387,45.355336,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prickly Ash</name>
+      <description><![CDATA[<img src="https://doc-0o-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/j5tu74vtvheukct2o4e87rlbd8/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9n4gbRMcLKRQipiuhg3oMcGDHyKrIQWSpB0WFXPQzX3yoHNz-dRNtaKLlow4U1kU3zY4ABZ9suan-R8_zwcXjWIu3paDbzL1TsrL-bUHi5DwxlrzDRFIeDJ_UKv5X9joiQV5JvWUbwLVSf2t1cVxKcIKfor6g0tTN4O7CddpRO7Q6khn2I14dNV5TKR5GtWf_k?session=2&fife" height="200" width="auto" /><br><br>Right where the path makes a sharp turn to the south is a patch of Prickly Ash. And here is the problem with common names: this plant is not an Ash and it's not even a tree! It is a small shrub that looks like an Ash, but with vicious thorns. It prefers alkaline growing conditions and loves the calcium in the bedrock of Hidden Lake. What makes this plant particularly special is that it is in the Citrus family. Yep, it's related to oranges and tangerines. Our largest butterfly, the Giant Swallowtail, must lay its eggs on citrus plants. So Prickly Ash is the only native plant in our area that allows the Giant Swallowtail butterfly to reproduce here. In fact, the Giant Swallowtail has only recently extended its range north into the Ottawa Valley and you can thank Prickly Ash!<br>(Note: the Hop Tree that is native to southern Ontario is also in the Citrus family and is also a host for the Giant Swallowtail larva.)<br>Learn more about Prickly Ash and butterflies: https://beauxarbres.ca/2018/09/16/giant-swallowtail-caterpillar/]]></description>
+      <styleUrl>#icon-1886-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/j5tu74vtvheukct2o4e87rlbd8/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9n4gbRMcLKRQipiuhg3oMcGDHyKrIQWSpB0WFXPQzX3yoHNz-dRNtaKLlow4U1kU3zY4ABZ9suan-R8_zwcXjWIu3paDbzL1TsrL-bUHi5DwxlrzDRFIeDJ_UKv5X9joiQV5JvWUbwLVSf2t1cVxKcIKfor6g0tTN4O7CddpRO7Q6khn2I14dNV5TKR5GtWf_k?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.0410984,45.3557054,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Black Ash</name>
+      <description><![CDATA[<img src="https://doc-00-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/ntvkbto17kq99ql51q5jtiueq8/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9nf6I5JlAE4bo1dBCpgkqNKwFqYLrXL5gTDvKRTgfzdlxR7paBQR0hDw6Y03ebRIURPZtMmHBBpwlUuyozzjG4dBL5ofI_sSW9vaJH4-1ZvdtE6bhBpSOEPFpGKtvklG5iHCHNHcjaxSM5MRhYRxYy7xyoxLRHG9ECU8okYCA-u734kQXrPzYwKQAbaFepKCjU?session=2&fife" height="200" width="auto" /><br><br>A young Black Ash grows on the south side of the trail. The bark has raised, corky ridges which are quite different from the interlaced diamond pattern of White Ash.  The presence of Black Ash indicates that this area used to be much wetter since it prefers swampy conditions.  Black Ash was recently declared Endangered due to its destruction by the Emerald Ash Borer, an Asian insect.  Black Ash is of cultural significance to Indigenous peoples who used its flexible wood to make woven baskets, snowshoes, and canoe ribs.  The seeds of the Black Ash provide essential food for wild turkeys, grouse, and small mammals.<br><br><img src="https://doc-14-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/6skf9c26jqlfkkrkrbgugoeec0/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9lTWA-Paxor92pg80iZau-JZbKgfFUQF29bOwdOuTmwa2u9O9uhYqA9u195A-xTAf11P2xxa_Oa93ftfpjhdd3yKqUahpIP0J1Zz3Pm7S0QZXKhcpWefbFwagBgRVig5-N4eH9BI4K7tvElG0HJ9QuxJpBbaHXGFhQYuxOcCmzPII5VnTVecNelg6fiUosBxHQ?session=2&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1886-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/ntvkbto17kq99ql51q5jtiueq8/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9nf6I5JlAE4bo1dBCpgkqNKwFqYLrXL5gTDvKRTgfzdlxR7paBQR0hDw6Y03ebRIURPZtMmHBBpwlUuyozzjG4dBL5ofI_sSW9vaJH4-1ZvdtE6bhBpSOEPFpGKtvklG5iHCHNHcjaxSM5MRhYRxYy7xyoxLRHG9ECU8okYCA-u734kQXrPzYwKQAbaFepKCjU?session=2&fife https://doc-14-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/6skf9c26jqlfkkrkrbgugoeec0/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9lTWA-Paxor92pg80iZau-JZbKgfFUQF29bOwdOuTmwa2u9O9uhYqA9u195A-xTAf11P2xxa_Oa93ftfpjhdd3yKqUahpIP0J1Zz3Pm7S0QZXKhcpWefbFwagBgRVig5-N4eH9BI4K7tvElG0HJ9QuxJpBbaHXGFhQYuxOcCmzPII5VnTVecNelg6fiUosBxHQ?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.0405235,45.3556206,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eastern White Cedar</name>
+      <description><![CDATA[<img src="https://doc-08-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/k15m4afv2pc297makjikpq0560/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9nHJDkPfnXwBobD3UxRczGO4y9Bq6dIzQpEj5F2Rx_YqiWNTwYaQWOOWJTrWZ5CsFCgJTDAzTWAXEopyNvu9LTMC_pOHIBhPqXBAkL2IvTSXcxf4DCWc2SxbiUZd-fsx5NKQKykhHgbSF4y9qbZfQRVjMI4XJYZ17G3tWm0Hy0pgjy4mgfpRJLj0bdDnfotynM?session=2&fife" height="200" width="auto" /><br><br>This Eastern White Cedar growing at the base of the stairs is probably 100 years old. How do we know? You can roughly estimate a cedar's age by its diameter. Every one foot of diameter equals 100 years of growth. This is approximate since growing conditions can vary, but the method has proven to be a pretty good rule of thumb.<br>Did you know that there are Old Growth Eastern White Cedars growing in a suburban woodland in Stittsville? At least three of the trees are over 200 years old (from core samples) making them older than Confederation!<br>Find out more about Kemp Woodland in Stittsville: https://treescanadensis.ca/kemp-woodland/<br><br><img src="https://doc-0s-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/clq69a7tgi7vv6na8t8m2b6de4/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kvW3nDmF9ifq8xvyQomJshViw7TadsGo2S27tqoLONo9PETD1hFhOtshm_vbNn2z1Uh7KxBJwsUSLYi6owPUdQwPENq7jIm487cHZcGr8FsKrikRCFSvjhz-1WIvBXYurQxCtj7bb7CS3Oo4uPmQmZQK_N-YTKf8672qX7dQ0sdgX6IF8X5WuRJIg-UxelSTY?session=2&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1886-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/k15m4afv2pc297makjikpq0560/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9nHJDkPfnXwBobD3UxRczGO4y9Bq6dIzQpEj5F2Rx_YqiWNTwYaQWOOWJTrWZ5CsFCgJTDAzTWAXEopyNvu9LTMC_pOHIBhPqXBAkL2IvTSXcxf4DCWc2SxbiUZd-fsx5NKQKykhHgbSF4y9qbZfQRVjMI4XJYZ17G3tWm0Hy0pgjy4mgfpRJLj0bdDnfotynM?session=2&fife https://doc-0s-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/clq69a7tgi7vv6na8t8m2b6de4/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kvW3nDmF9ifq8xvyQomJshViw7TadsGo2S27tqoLONo9PETD1hFhOtshm_vbNn2z1Uh7KxBJwsUSLYi6owPUdQwPENq7jIm487cHZcGr8FsKrikRCFSvjhz-1WIvBXYurQxCtj7bb7CS3Oo4uPmQmZQK_N-YTKf8672qX7dQ0sdgX6IF8X5WuRJIg-UxelSTY?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.0380515,45.3547479,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paper Birch</name>
+      <description><![CDATA[<img src="https://doc-0c-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/hpnib9ponm6c6g6tj94754a2g8/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kWFFU0DOV6RSmCZ10vRh6T55ZFh-TvGFLh63zlPfIC4YCGsMU2ivNXE77Q1TVwGX2zA_cHx0IMeYqU_h5YKtiLRd5dzcVp-QhIZJWfgd7CXCUQHaLgSZ6Qe3O4yALcsYf-z8pMBBpM9xazesz7pezhnY_N7ryzavnAY-Z1UsfF4PjWFTUqE9s6b5kj0YNGKQ8?session=2&fife" height="200" width="auto" /><br><br>Paper Birch is an iconic Canadian tree. Its bark is waterproof, hence its use by First Nations peoples for birch bark canoes. There are many mature Paper Birch growing in Hidden Lake Park. This is a young sapling whose bark and leaves you can easily examine. Note that the bark peels in curling, horizontal sheets, revealing a light orange inner bark. This is a major differentiator from European White Birch, whose bark peels in thin, horizontal strands with light grey inner bark. European White Birch are planted on lawns throughout Carp. They have a weeping appearance from their pendulous branches and dark, triangular "arm pits" under their limbs. Our native Paper Birch is a better choice for the benefits it provides to wildlife. It's also highly tolerant of many conditions, but needs full sun.  Like most birches it will likely not live longer than 80 years. Learn more about Paper Birch: https://arboretum.uoguelph.ca/thingstosee/trees/paperbirch<br><br><img src="https://doc-0k-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/d7r8og1pqrvb1mh41iq7fj62f8/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9l4sB2PkpY4A_bFPj58wG3K3rPPWm_W2qtlkCMs9SCnZL_NQGuS_-OIp8cZHmmOLUX1gTPCWJNwgBK-kJFTcX5ZEkIsOUNRbKEmGKOxYPgjIGxwZ3HdlUesAMd4kp1diffz3j1qzQ9aqDq5s7v337r9mku8vNJu8r6o8sSc4abWrq7rR7YofjuyWYbWMHm_WA?session=2&fife" height="200" width="auto" /><br><br><img src="https://doc-14-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/avdn7t0n8h3aomtcepgqd4fkbs/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kY1-uLbHC3zqWyMpUCvmxpy6tu9IsZFuxHlWOLmSpKbZhbpt0_Zecbb78EZVXceCOj7ezYGaYw9VlSW-ScrLDeKWuJQmycsTbeeSGylE_FJpCZrVLVR4t03kn03RP1_-G_zlkUAc1jE71tKvknibSWzJ3Wjj4GjIr6nu97BAnwESAj5w_BZ1B0EpE_62ZSiQo?session=2&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1886-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/hpnib9ponm6c6g6tj94754a2g8/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kWFFU0DOV6RSmCZ10vRh6T55ZFh-TvGFLh63zlPfIC4YCGsMU2ivNXE77Q1TVwGX2zA_cHx0IMeYqU_h5YKtiLRd5dzcVp-QhIZJWfgd7CXCUQHaLgSZ6Qe3O4yALcsYf-z8pMBBpM9xazesz7pezhnY_N7ryzavnAY-Z1UsfF4PjWFTUqE9s6b5kj0YNGKQ8?session=2&fife https://doc-0k-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/d7r8og1pqrvb1mh41iq7fj62f8/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9l4sB2PkpY4A_bFPj58wG3K3rPPWm_W2qtlkCMs9SCnZL_NQGuS_-OIp8cZHmmOLUX1gTPCWJNwgBK-kJFTcX5ZEkIsOUNRbKEmGKOxYPgjIGxwZ3HdlUesAMd4kp1diffz3j1qzQ9aqDq5s7v337r9mku8vNJu8r6o8sSc4abWrq7rR7YofjuyWYbWMHm_WA?session=2&fife https://doc-14-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/avdn7t0n8h3aomtcepgqd4fkbs/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kY1-uLbHC3zqWyMpUCvmxpy6tu9IsZFuxHlWOLmSpKbZhbpt0_Zecbb78EZVXceCOj7ezYGaYw9VlSW-ScrLDeKWuJQmycsTbeeSGylE_FJpCZrVLVR4t03kn03RP1_-G_zlkUAc1jE71tKvknibSWzJ3Wjj4GjIr6nu97BAnwESAj5w_BZ1B0EpE_62ZSiQo?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.037439,45.3544207,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hidden Lake Park</name>
+      <description><![CDATA[<img src="https://doc-08-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/0fo4r5gnk316kk1hnuv9k254eg/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9miFOosQmEV722REfsXchzq0Sb26FMJwkqGl6MrtiXHOWwot-Pb2MQDD0IIjrX_7JhIQPqBJnxBVtvn-8O501lx4xa4xycN3PI4qSwuDz4uwT4E2LKrtcTjkixwRrajCzH51Dr-RhnZNn1HMvnCjZWXI-JzxcwWtoBNJ_hv4SNlxgPRnS46KjmWQWJSQciOkTw?session=2&fife" height="200" width="auto" /><br><br>The 650 meter pathway through Hidden Lake Park showcases many trees in a natural woodland setting. Unlike most of the very acidic Carp Ridge, the Precambrian bedrock in the park contains more calcium, which means that more species of plants can grow here due to better nutrient availability. Some tree indicators of this soil chemistry are the Eastern White Cedars, Black Cherries, Sugar Maples, Butternuts, and Basswood. Plant indicators are Prickly Ash, White Trillium, and Common Buckthorn. Other trees that grow here are: Red Maple, White Pine, Red Oak, American Elm, Ash, and Ironwood. You should be able to use your tree ID skills from individual trees on this walking tour to find these trees!  The Hidden Lake woodland is probably less than 90 years old. Counting the rings on a recently removed large White Pine stump yields a number around 75. If you'd like to learn about how soil chemistry affects what plants will grow, read the Crazy Horse Trail interpretive guide, which describes the abrupt change from marble to gneissic bedrock on the trail. https://carphills.com/?page_id=393]]></description>
+      <styleUrl>#icon-1886-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/0fo4r5gnk316kk1hnuv9k254eg/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9miFOosQmEV722REfsXchzq0Sb26FMJwkqGl6MrtiXHOWwot-Pb2MQDD0IIjrX_7JhIQPqBJnxBVtvn-8O501lx4xa4xycN3PI4qSwuDz4uwT4E2LKrtcTjkixwRrajCzH51Dr-RhnZNn1HMvnCjZWXI-JzxcwWtoBNJ_hv4SNlxgPRnS46KjmWQWJSQciOkTw?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.0375439,45.3542233,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Slippery Elm</name>
+      <description><![CDATA[<img src="https://doc-14-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/v7tp0cndm0gat4d3qtf85nq8to/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9mP-FF20Wc0gu0dUR0detO6_CEei973NbmMDXRddi2JlOoLbehSv9ABUyiXKdsZNmN2JxpALkDVebF4LvRXBjM2NuzZu9E7cy7cskg9paKexzD1RD6DWEzZiOqLNVaSqqeAAkJStJ-8dLAqAnve2jOZiwDz4nU4Ht7t-IVPTs64fGHcDVz_ehEfaCPh6Bcu_A?session=2&fife" height="200" width="auto" /><br><br>Many people don't know that there are three native elm trees that grow in Ottawa: American Elm, Slippery Elm, and Rock Elm. Slippery Elm is distinguished from the more common American Elm by its scaly bark, upright growth form, and large leaves. Like other elms, Slippery Elm is susceptible to Dutch Elm Disease. It is much less common than American Elm, but there is a scattered population of them in Kanata North and in the Carp Hills where the Precambrain bedrock is not acidic gneiss. The name "Slippery" comes from the muscilaginous bark, which has medicinal use as a demulcent, soothing irritation in the gut. To learn more about Slippery Elm and how to identify it: https://treescanadensis.ca/ulmus-rubra-slippery-elm/]]></description>
+      <styleUrl>#icon-1886-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/v7tp0cndm0gat4d3qtf85nq8to/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9mP-FF20Wc0gu0dUR0detO6_CEei973NbmMDXRddi2JlOoLbehSv9ABUyiXKdsZNmN2JxpALkDVebF4LvRXBjM2NuzZu9E7cy7cskg9paKexzD1RD6DWEzZiOqLNVaSqqeAAkJStJ-8dLAqAnve2jOZiwDz4nU4Ht7t-IVPTs64fGHcDVz_ehEfaCPh6Bcu_A?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.036443,45.352019,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rock Elm</name>
+      <description><![CDATA[<img src="https://doc-0o-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/j24rehhdq48vkaqm1n227qu3ag/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kst4Lxa7mU5Fk13z1Oqt1lY9M_I2KbJAZIQ3jCJoYOt0d12BmR2W72teAzXg1Zx2C2hSrUUfh1FsH2abtv9wCUf5TSEqupLLkjicg-GPRS0hCEcVQE_5XvNUexO1yyu0lHZHJVflWWvhPADvtZu0JS0HmFWY54jXzDVc5ptcZ8wLWiDaFkbwRvt8UJ8C0FWw?session=2&fife" height="200" width="auto" /><br><br>Many people don't know that there are three native elm trees that grow in Ottawa: American Elm, Slippery Elm, and Rock Elm. Rock Elm is distinguished from the more common American Elm by its preference for rocky alkaline uplands, its corky twigs (similar to Bur Oak), and its downward arching lower branches. Like other elms, Rock Elm is susceptible to Dutch Elm Disease. It is much less common than American Elm, but there is a widespread population of them in North Kanata. In Carp, they grow on the Ridge in the few places where the Precambrain bedrock is marble (alkaline) instead of acidic gneiss. Can you identify smaller Rock Elms (and Slippery Elms) growing along this side of Juanita Avenue as you walk up the hill? Learn more about Rock Elms: https://treescanadensis.ca/ulmus-thomasii-rock-elm/<br><br><img src="https://doc-14-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/17b2hcig3gcug2himaiqs3c1q8/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9lEUUVpvmzcfYLsMMG_5bSA9cSKwKG9jnO_g3g3gkqnWcKhER_1TRds17DziRDDnnmht9ddNf5_53EmpLGrTx12LsaEwSiiq2lFIY4jkwOLnqZ40E7Xbj_WRRJcNRahpXKQS7S7myYewmLvTUIFjYYxMqAvYRe1E9TgUZ0WC1TvGXePyuC6v6bGQRysqIwWFQ?session=2&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1886-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/j24rehhdq48vkaqm1n227qu3ag/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kst4Lxa7mU5Fk13z1Oqt1lY9M_I2KbJAZIQ3jCJoYOt0d12BmR2W72teAzXg1Zx2C2hSrUUfh1FsH2abtv9wCUf5TSEqupLLkjicg-GPRS0hCEcVQE_5XvNUexO1yyu0lHZHJVflWWvhPADvtZu0JS0HmFWY54jXzDVc5ptcZ8wLWiDaFkbwRvt8UJ8C0FWw?session=2&fife https://doc-14-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/17b2hcig3gcug2himaiqs3c1q8/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9lEUUVpvmzcfYLsMMG_5bSA9cSKwKG9jnO_g3g3gkqnWcKhER_1TRds17DziRDDnnmht9ddNf5_53EmpLGrTx12LsaEwSiiq2lFIY4jkwOLnqZ40E7Xbj_WRRJcNRahpXKQS7S7myYewmLvTUIFjYYxMqAvYRe1E9TgUZ0WC1TvGXePyuC6v6bGQRysqIwWFQ?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.036162,45.352228,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tamarack (aka Larch)</name>
+      <description><![CDATA[<img src="https://doc-0c-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/vrn4bb8r00aesun301c3huiv4k/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9lD7CVGUSP_JCzngfa5_oGg3E3cH_hJTM9byFLyVvMww-aAPmHhapxy-wsT6lHAz0W3gjY4eqQ-k_jrgec6lvVC8J2hIDP4sQ4l76uJ7sbywOGVmjxcqq9hYPdTmm5P_Tq3PDc8Zue2VcROxUQ0nfTI4M191Rwrphf-afLjP53GF7i1CmjK3qe1PwO_Hn188ro?session=2&fife" height="200" width="auto" /><br><br>Larch. It's hard not to think of Monty Python's Lumberjack sketch! But the common name for our native larch is Tamarack. It's distinguished by being the only Ontario native conifer that is deciduous. Its needles, in tufts of 15 or more, turn a brilliant golden yellow in autumn and then fall off. New needles emerge in the spring like other deciduous trees along with small, rosy pink cones. Tamaracks are large trees that grow in wetlands.  They can tolerate some drought, but will not be robust. The city planted these two trees, and other native species, to naturalize the perimeter of the stormwater dry pond. The Tamarack is host for many moth larva, which feed other wildlife. If you have the space, plant our native Tamarack and not the European Larch. Provide it with full sun and consistent moisture and enjoy its delicate beauty. To learn more about Tamaracks: https://arboretum.uoguelph.ca/thingstosee/trees/tamarack<br><br><img src="https://doc-0g-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/b6v5mh9dr9puh8js9pfnn18978/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9mmBrWXcPmamX_ys3UlVmAxXeRJb4RUF-Ye_L5H4--hemTT8hL8rao3-W_rjFy42icCBL2mCKe9ANz6ZUsmwer2EmCCChQgFV1rnbLQyLSY76OpbOnyw4Tesc5YElegay33j5WokOWA2aihm4NP3Y6_2YdPjX68iunzFQ1l6avuNBXzxvwY_eOeF3so2P8JV1M?session=2&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1720-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/vrn4bb8r00aesun301c3huiv4k/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9lD7CVGUSP_JCzngfa5_oGg3E3cH_hJTM9byFLyVvMww-aAPmHhapxy-wsT6lHAz0W3gjY4eqQ-k_jrgec6lvVC8J2hIDP4sQ4l76uJ7sbywOGVmjxcqq9hYPdTmm5P_Tq3PDc8Zue2VcROxUQ0nfTI4M191Rwrphf-afLjP53GF7i1CmjK3qe1PwO_Hn188ro?session=2&fife https://doc-0g-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/b6v5mh9dr9puh8js9pfnn18978/1669033249000/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9mmBrWXcPmamX_ys3UlVmAxXeRJb4RUF-Ye_L5H4--hemTT8hL8rao3-W_rjFy42icCBL2mCKe9ANz6ZUsmwer2EmCCChQgFV1rnbLQyLSY76OpbOnyw4Tesc5YElegay33j5WokOWA2aihm4NP3Y6_2YdPjX68iunzFQ1l6avuNBXzxvwY_eOeF3so2P8JV1M?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.0376103,45.3515934,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

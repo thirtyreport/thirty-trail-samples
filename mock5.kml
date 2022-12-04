@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Quiz Trees</name>
+    <Style id="icon-1594-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1594-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1594-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1594-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1594-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Quiz Tree 1</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=nHYraxeHoP0"><img src="https://img.youtube.com/vi/nHYraxeHoP0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/nHYraxeHoP0">https://www.youtube.com/embed/nHYraxeHoP0</a><br><br>I am a native tree planted on city property throughout Carp. I can grow to be a large tree. I produce fruit that people and wildlife enjoy. Note my warty bark, which is my main distinctive feature. Even though it's a bit chilly for me, I grow well in Ottawa. I'm a good choice for your yard. What am I?  (Photo 2 after the video shows the answer.)<br><br><img src="https://doc-0k-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/udd1rjq3uo9lds99o1j9vd95ck/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9nqM1WAFWExtIWqoF5S_gahrE5gn8slc_fiMSTbZQZuLGlhR2aNn6LbykffeiO4RSRKltPPjaBd77xTThCKOIsaMYnAiqHoCkbXLog1AtX5VP4o_qxQtnfShfQ3qqSnUJmdKOsDymeWnGgareEqRfsvtDxb77pFOFuXZ1BzWxLLZwW_-DDZn1ob4xr0ZI5y3Kg?session=2&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1594-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://www.youtube.com/embed/nHYraxeHoP0 https://doc-0k-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/udd1rjq3uo9lds99o1j9vd95ck/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9nqM1WAFWExtIWqoF5S_gahrE5gn8slc_fiMSTbZQZuLGlhR2aNn6LbykffeiO4RSRKltPPjaBd77xTThCKOIsaMYnAiqHoCkbXLog1AtX5VP4o_qxQtnfShfQ3qqSnUJmdKOsDymeWnGgareEqRfsvtDxb77pFOFuXZ1BzWxLLZwW_-DDZn1ob4xr0ZI5y3Kg?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.0360867,45.3486211,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quiz Tree 2</name>
+      <description><![CDATA[<img src="https://doc-0k-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/v5i29ej8qehd533rga1mkq1hj4/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9ndK41iC7foWSZ5j5LbWosFiJpl3IgFL4tyQCBBpxJL1cE9CVMRS73JdKl0U5GRAY-ey3cU5jifOdbguuaWFmK71aQGBs1rZ-s3tLXZKIzGFZjYkB_Myjt8alihQGgSyBtovub-8qMz-LEQI6i-GbwYThUy7Q5DNnH8L4S9HdAO4kR7BaVGfG0gd8gtzuCZS9M?session=2&fife" height="200" width="auto" /><br><br>I am a native tree that is widely planted throughout Carp. I grow big quite quickly. I'm considered a softwood tree. I love moisture and can grow in swamps. I'm not the best choice for your yard. My roots will seek out moisture wherever I can find it. I have three other native large tree cousins that grow in Ottawa. One of them gets all the attention! Note my deeply lobed, sharp-pointed leaves. What am I?  (Photo 3 shows the answer.)<br><br><img src="https://doc-14-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/i5eatp2rpv4enhmg2mmvjqso1o/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9mReVxEM0odsB-SM2vM-kOe8T6Bgtzq1P3OTx-IpCXCrrmtkvDQij_A3cOC5PTk5Hp8WJDCeGFvk0JHnW__Z2z5907WiRbW8p5Ujq5tjaB7yRNOsUhGT9BF4rrCrQUXnrBOwvnduhaC0Li-jbCsyqXCLerAAw_cOHv4qLaFQtw3DMULGOXzS0sW-sk0JmgjJQ4?session=2&fife" height="200" width="auto" /><br><br><img src="https://doc-0g-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/5llk0n3msp6sarb1fsilnr88o8/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9l1OzJ0DWgbe2YSQnXocqe9q6s_FrGo135g1y88qaZTDtyaWe_ploEOYEpfA_JjD5thhsQXNcGkSfeKUTDxxTM1S6Dwy2tdugIWRN6BE4PzK0kiXf2kxUsfdju7CapRajkD61MtIn4Z_8ceXH6p2YrJ9Pv2ESncRCz9XdGz5ogkjA60mrBopQvsiNtD05vgWO4?session=2&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1594-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/v5i29ej8qehd533rga1mkq1hj4/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9ndK41iC7foWSZ5j5LbWosFiJpl3IgFL4tyQCBBpxJL1cE9CVMRS73JdKl0U5GRAY-ey3cU5jifOdbguuaWFmK71aQGBs1rZ-s3tLXZKIzGFZjYkB_Myjt8alihQGgSyBtovub-8qMz-LEQI6i-GbwYThUy7Q5DNnH8L4S9HdAO4kR7BaVGfG0gd8gtzuCZS9M?session=2&fife https://doc-14-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/i5eatp2rpv4enhmg2mmvjqso1o/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9mReVxEM0odsB-SM2vM-kOe8T6Bgtzq1P3OTx-IpCXCrrmtkvDQij_A3cOC5PTk5Hp8WJDCeGFvk0JHnW__Z2z5907WiRbW8p5Ujq5tjaB7yRNOsUhGT9BF4rrCrQUXnrBOwvnduhaC0Li-jbCsyqXCLerAAw_cOHv4qLaFQtw3DMULGOXzS0sW-sk0JmgjJQ4?session=2&fife https://doc-0g-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/5llk0n3msp6sarb1fsilnr88o8/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9l1OzJ0DWgbe2YSQnXocqe9q6s_FrGo135g1y88qaZTDtyaWe_ploEOYEpfA_JjD5thhsQXNcGkSfeKUTDxxTM1S6Dwy2tdugIWRN6BE4PzK0kiXf2kxUsfdju7CapRajkD61MtIn4Z_8ceXH6p2YrJ9Pv2ESncRCz9XdGz5ogkjA60mrBopQvsiNtD05vgWO4?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.034143,45.34987,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quiz Tree 3</name>
+      <description><![CDATA[<img src="https://doc-0k-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/tetvaus45phlda8hkmpf8l8se8/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kw_Fl9ntohJWR2TfEiG0przMetWX_PoPPwfeAw5V10Gj3XtXMV8eLKk0abwb2jqrqvcbSAwRNLnpNJF_dVayklAjSznvnYOI1GMOuhNevkcakKGggNPZQKutVrBfq1-BJt7QBw_xfoLoOrWsMu26cjoM9S6RobV-sq7il34wcNbukd3hMWvsWAWja1OPOzT4k?session=2&fife" height="200" width="auto" /><br><br>I am a native tree that is widespread in our area.<br>I feed many insects and wildlife. Squirrels and Blue Jays love me!  I am a good choice for your yard. Once established I am drought tolerant and I have beautiful fall colour.  Note my sharply pointed leaf lobes, which are quite different from the leaves of my cousin tree. What am I?  (Photo 3 shows the answer.)<br><br><img src="https://doc-0k-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/kkqpv3uohhbof1hvbdbipsv2a4/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9nrygKv6NKY0j1nV0zPth57VliIdk8y2m_S_M3Uy6VrIcaRtgWId84n8b9iqOQzjuTLHJPzQqwddF0b6p10qrrsHTb3mwr8AEs9TT8Vp_R5KXNszxEJ8ZUHP1DU6uXX-39C4JKziYxnGikdp42VJOrIC4KdiRlZGdROE3Qi0rNr5iM0s6D02KRX-55Pg9EIdVc?session=2&fife" height="200" width="auto" /><br><br><img src="https://doc-00-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/o8sbdu0er7k6kplpf19srmf9c8/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9nlBB9iueMapQ8oCYcTLuxTXJ1KDRtNff4UfNA6szXt94OsYHYaJdaGXyckPrEO-_vILey64fe5m6gtDmsh6u0zMG9M1WtthlBwUzrF-XzW_JhkBnqVKE6PeNZfD0fG-hdraGVlAzqj0E9f4AepAU9XpaVxMDlJ_Wq0IpBpa7vpueD3xTGS3cvsatk7aKzKtqI?session=2&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1594-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/tetvaus45phlda8hkmpf8l8se8/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kw_Fl9ntohJWR2TfEiG0przMetWX_PoPPwfeAw5V10Gj3XtXMV8eLKk0abwb2jqrqvcbSAwRNLnpNJF_dVayklAjSznvnYOI1GMOuhNevkcakKGggNPZQKutVrBfq1-BJt7QBw_xfoLoOrWsMu26cjoM9S6RobV-sq7il34wcNbukd3hMWvsWAWja1OPOzT4k?session=2&fife https://doc-0k-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/kkqpv3uohhbof1hvbdbipsv2a4/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9nrygKv6NKY0j1nV0zPth57VliIdk8y2m_S_M3Uy6VrIcaRtgWId84n8b9iqOQzjuTLHJPzQqwddF0b6p10qrrsHTb3mwr8AEs9TT8Vp_R5KXNszxEJ8ZUHP1DU6uXX-39C4JKziYxnGikdp42VJOrIC4KdiRlZGdROE3Qi0rNr5iM0s6D02KRX-55Pg9EIdVc?session=2&fife https://doc-00-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/o8sbdu0er7k6kplpf19srmf9c8/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9nlBB9iueMapQ8oCYcTLuxTXJ1KDRtNff4UfNA6szXt94OsYHYaJdaGXyckPrEO-_vILey64fe5m6gtDmsh6u0zMG9M1WtthlBwUzrF-XzW_JhkBnqVKE6PeNZfD0fG-hdraGVlAzqj0E9f4AepAU9XpaVxMDlJ_Wq0IpBpa7vpueD3xTGS3cvsatk7aKzKtqI?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.03396,45.34986,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quiz Tree 4</name>
+      <description><![CDATA[<img src="https://doc-04-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/ovv4oj9gq9dd0n5s03sqhi4vg4/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kAgT_8llbmfLu5tGDuYI32uKfTyGbgu8rwV0saOz4g7yL1LqVY4CpTP_QESycKCsuOwoBzHb7S9xB1oc3ErE6V-ZDjVsXMgxakAfNAvGuc_L6MAj56mBuxAG5UMvsWfpfW4OZyXoK8nMD9fhwRS-_fmDb78hucPYtd1hZRNeF7s42Iplf7bAX5y91HWyXZqWo?session=2&fife" height="200" width="auto" /><br><br>I am a native conifer and evergreen. My leaves are needles. How many needles are in a bundle? Are my needles short or long? What do my cones look like? Are they big or small? I've been planted here, but perhaps you've seen me in the wild when hiking in Algonquin Park. What am I? (Photo 3 shows the answer.)<br><br><img src="https://doc-0s-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/g7b6us76batq7s8hpq8qka8hl4/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9mRm2qZD8FTByuOGISa0tEhscGvUZSy2Kgq89Ax908qiOsFtZ-hyLmamOOija7DZWIJOuTh4g_Ma5XVD0r47xFtDd7Yr2i943oZkaqW3XZ-85jacPCdDfjNlnyYtL_sOSj-UskW2KeE2Ygf47b8yAvcWpdTY-2d4qKriPan1wQmpmkBnLNSolAfKGdmI0Aw4NQ?session=2&fife" height="200" width="auto" /><br><br><img src="https://doc-0c-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/67nc933c98bi9r1kbdotvdj0go/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9mIi8uuIXKQ2Qhdc9muJ6is_kIPhohsJRMX6MBSsx-WS4t_3t7BC66wQuEE0iEiUP0Xjty4JX8fbo2Jul3bNMMjwphOPTbjZoWFuSPqTlH4_ySqdw1ZSVqP7YR_4UhYUxHllHcd4HrLEfE6ePfx_yr50L90U1MokrlSP6a-9W8QJ2aYRqSCRlWmd7M8jbtzoy8?session=2&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1594-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/ovv4oj9gq9dd0n5s03sqhi4vg4/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kAgT_8llbmfLu5tGDuYI32uKfTyGbgu8rwV0saOz4g7yL1LqVY4CpTP_QESycKCsuOwoBzHb7S9xB1oc3ErE6V-ZDjVsXMgxakAfNAvGuc_L6MAj56mBuxAG5UMvsWfpfW4OZyXoK8nMD9fhwRS-_fmDb78hucPYtd1hZRNeF7s42Iplf7bAX5y91HWyXZqWo?session=2&fife https://doc-0s-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/g7b6us76batq7s8hpq8qka8hl4/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9mRm2qZD8FTByuOGISa0tEhscGvUZSy2Kgq89Ax908qiOsFtZ-hyLmamOOija7DZWIJOuTh4g_Ma5XVD0r47xFtDd7Yr2i943oZkaqW3XZ-85jacPCdDfjNlnyYtL_sOSj-UskW2KeE2Ygf47b8yAvcWpdTY-2d4qKriPan1wQmpmkBnLNSolAfKGdmI0Aw4NQ?session=2&fife https://doc-0c-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/67nc933c98bi9r1kbdotvdj0go/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9mIi8uuIXKQ2Qhdc9muJ6is_kIPhohsJRMX6MBSsx-WS4t_3t7BC66wQuEE0iEiUP0Xjty4JX8fbo2Jul3bNMMjwphOPTbjZoWFuSPqTlH4_ySqdw1ZSVqP7YR_4UhYUxHllHcd4HrLEfE6ePfx_yr50L90U1MokrlSP6a-9W8QJ2aYRqSCRlWmd7M8jbtzoy8?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.038496,45.350734,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quiz Tree 5</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=-r8DO1YX7Jo"><img src="https://img.youtube.com/vi/-r8DO1YX7Jo/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/-r8DO1YX7Jo">https://www.youtube.com/embed/-r8DO1YX7Jo</a><br><br>I am a native conifer and an evergreen. My needles are quite long and please make note of how many needles are in each bundle. What colour is my scaly bark? Can you find some cones to see what shape they are.? I myself hope to grow as tall and straight as the poles holding up the hydro lines around town.<br>Regardless of my height I will provide food to insects, squirrels, and birds like finches, crossbills, and grosbeaks for years to come. What am I?<br>(The photo after the video shows the answer.)<br><br><img src="https://doc-14-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/6bpahrff7e7h8gks71di2vrj24/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9lW0QON0cmP3K0YYbPjCzMpA94irIF84g789dzSy8FC5MEPb42gZ8TGR04xepiE2xBFUKg32zSNkDVf50nqOR4_8_wmo8WhKfs9Ze6L94yUvKX4HNMb__ggwDgA_edBacn8DJs16-hTECubKjPEJ_6GgCA-1V5H0WNJ8RnvTguXlAs7acT48SxpkFNUXlYQvug?session=2&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1594-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://www.youtube.com/embed/-r8DO1YX7Jo https://doc-14-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/6bpahrff7e7h8gks71di2vrj24/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9lW0QON0cmP3K0YYbPjCzMpA94irIF84g789dzSy8FC5MEPb42gZ8TGR04xepiE2xBFUKg32zSNkDVf50nqOR4_8_wmo8WhKfs9Ze6L94yUvKX4HNMb__ggwDgA_edBacn8DJs16-hTECubKjPEJ_6GgCA-1V5H0WNJ8RnvTguXlAs7acT48SxpkFNUXlYQvug?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.035964,45.349468,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quiz Tree 6</name>
+      <description><![CDATA[<img src="https://doc-04-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/mhv69ddnmncldghuacjjltfc9g/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9llUmSYAHmUyUWuBlloVvSe9UIDEreeAv8wQU-efx1W_FO1CXVi-R0QeARUxMSju6bMPbQWjx-H0AjFqw-axHODZKbZ2jYVeCmAW_1uJiDXMYPdCr_A3EidA2rQpe4UWWwL5ZqhyCYkcAMJjJkw5iYxfMql6XWblgPiADGFiVisC36kAiGqyHiRpSGQnFMymrE?session=2&fife" height="200" width="auto" /><br><br>I am recently planted here, but a good example of an iconic native tree in its youth. One might say that I'm famous around the world and Canadians love me for my sweet nature! Count my leaf lobes to distinguish me from my European cousin. Sadly my non-native nordic cousin doesn't fit in well here. Insects and wildlife won't touch it, but they love to eat my nutritious seeds. In the fall, check out my brilliant colour - you will drive kilometers to appreciate my beauty. Truly I am magnificent in so many ways.  What am I?  (Photo 3 shows the answer.)<br><br><img src="https://doc-04-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/bbciestp7q7631jpad0k8rgd5k/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kx06JnKv_jBSXFClF3OB0g8jmJ9G3oClsO-E6CiwroYQTsQRDgIrULrNG20-wPf3GnY-7qgvJ-ZBK7Pb9p6WW2KVUIBn88YhLj4sjHrIFqH6k96mU3V-u2hJoo_mQTJjX6_lcxJdRutKVoOIKCXLStScIqfQywJKFcoCdj57COGSdUXyGhFnSdfJeVPrzlSXc?session=2&fife" height="200" width="auto" /><br><br><img src="https://doc-0k-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/tfjknjo2i5prc2knc53mrru7og/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kFuRMrcAEyXzMkD3rqK2uiRkLtRL32TsbmILffSgFZyESZi6lrIhFp9G9LanC3_9753jV2R7z9E8zVDqPCJLn4Pi3kJHW-hkDyV6T6E-B_NHVDR1Hq2FX5RhhbH0xWkYL0IS27SyxY68nroeqBCsAMVrBFf19yZRld2X5El1wQ342h1ATj-Ir3JtMM7GTFoKA?session=2&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1594-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/mhv69ddnmncldghuacjjltfc9g/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9llUmSYAHmUyUWuBlloVvSe9UIDEreeAv8wQU-efx1W_FO1CXVi-R0QeARUxMSju6bMPbQWjx-H0AjFqw-axHODZKbZ2jYVeCmAW_1uJiDXMYPdCr_A3EidA2rQpe4UWWwL5ZqhyCYkcAMJjJkw5iYxfMql6XWblgPiADGFiVisC36kAiGqyHiRpSGQnFMymrE?session=2&fife https://doc-04-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/bbciestp7q7631jpad0k8rgd5k/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kx06JnKv_jBSXFClF3OB0g8jmJ9G3oClsO-E6CiwroYQTsQRDgIrULrNG20-wPf3GnY-7qgvJ-ZBK7Pb9p6WW2KVUIBn88YhLj4sjHrIFqH6k96mU3V-u2hJoo_mQTJjX6_lcxJdRutKVoOIKCXLStScIqfQywJKFcoCdj57COGSdUXyGhFnSdfJeVPrzlSXc?session=2&fife https://doc-0k-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/tfjknjo2i5prc2knc53mrru7og/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kFuRMrcAEyXzMkD3rqK2uiRkLtRL32TsbmILffSgFZyESZi6lrIhFp9G9LanC3_9753jV2R7z9E8zVDqPCJLn4Pi3kJHW-hkDyV6T6E-B_NHVDR1Hq2FX5RhhbH0xWkYL0IS27SyxY68nroeqBCsAMVrBFf19yZRld2X5El1wQ342h1ATj-Ir3JtMM7GTFoKA?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.036029,45.349522,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quiz Tree 7</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=X6456-Odc6w"><img src="https://img.youtube.com/vi/X6456-Odc6w/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/X6456-Odc6w">https://www.youtube.com/embed/X6456-Odc6w</a><br><br>Like many of our peers in Carp, we were likely planted by industrious, but forgetful squirrels as a future food cache. Our "seeds" are quite tasty to humans and wildlife. Depending on the time of year, we may have yellow-white pendant flowers or large, sticky, lime-smelling globes that swell as my seeds ripen. Our bark is a beautiful pattern of interlacing ridges. We're not fond of neighbours so we engage in chemical warfare. But don't worry, we’re perfectly safe if you're not a plant! What are we?  (The photo after the video shows the answer.)<br><br><img src="https://doc-0o-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/ov4m3dbftoa7u04u1go1a2ehik/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9lEuZtI6LrL_1aeFhHhCVqE4cLIPKJnotL6z-2AkigPzmg98NB_rHuDrqTlroHClnRW0S1eF7GpRZtkbAlc3RDWxppzaonXh4kYd4Fp-omvpZ6aDNT9otWF44yN5H1wstPIlFRRD7ZEnEBCq8uJpLLKqf6qthuPFSr88VqV-tC6mMu0pjt7Z5W9m4JeURr8YuA?session=2&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1594-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://www.youtube.com/embed/X6456-Odc6w https://doc-0o-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/ov4m3dbftoa7u04u1go1a2ehik/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9lEuZtI6LrL_1aeFhHhCVqE4cLIPKJnotL6z-2AkigPzmg98NB_rHuDrqTlroHClnRW0S1eF7GpRZtkbAlc3RDWxppzaonXh4kYd4Fp-omvpZ6aDNT9otWF44yN5H1wstPIlFRRD7ZEnEBCq8uJpLLKqf6qthuPFSr88VqV-tC6mMu0pjt7Z5W9m4JeURr8YuA?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.035572,45.349133,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quiz Trees 8</name>
+      <description><![CDATA[<img src="https://doc-0s-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/f7cfee1b8ap4vc8l3bheqm4aao/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9lk25Dwdji8l6WQVxeGjaI3BmIPN0vxAbAXcVBB0aSVeXCDt685NaJPDm_FRekUoo16SeyurOUmyb_0QplwGs35hAO8ihcc1rrNPHmLONYWeyxvKXx_fA6ygNXOtqBirHrR8FctRkewathEdlGozis0hY48ch9AjBvchd59bi170lcB68M0Ue4hT1yP6XfTD0w?session=2&fife" height="200" width="auto" /><br><br>We six trees welcome you to Jensen Court Park at the entrance on Glenncastle Drive. We are all in the same family, but we're a mix of native and foreign species. Five of us are the same species and one is different. Consider the colour of our foliage, the size of our cones, how we smell, and how pendulous our twigs are. What two species are we and which trees are which species? (Photo 2 shows the answer.)<br><br><img src="https://doc-0k-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/f560li35e8nbjbmd5kfhtppcb4/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9nEE8DjkbFHxWbwPAeKp5uGtGPm5aW2SJ67ST_dShInwc-BxDbr8L1odImMEHVp6O7g3DdeVnIpN6m90AjmamOc8kvn2nyFUT8EccSvTNMQg1o0r_AOnyp8u8ElSEqAHfZmRbvoyEwBEf5GaZ-yviOxfS5J3xPWP6ajoj8dBBccAnZ1-Z67jEV1RDG6ObrZdvA?session=2&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1594-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/f7cfee1b8ap4vc8l3bheqm4aao/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9lk25Dwdji8l6WQVxeGjaI3BmIPN0vxAbAXcVBB0aSVeXCDt685NaJPDm_FRekUoo16SeyurOUmyb_0QplwGs35hAO8ihcc1rrNPHmLONYWeyxvKXx_fA6ygNXOtqBirHrR8FctRkewathEdlGozis0hY48ch9AjBvchd59bi170lcB68M0Ue4hT1yP6XfTD0w?session=2&fife https://doc-0k-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/f560li35e8nbjbmd5kfhtppcb4/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9nEE8DjkbFHxWbwPAeKp5uGtGPm5aW2SJ67ST_dShInwc-BxDbr8L1odImMEHVp6O7g3DdeVnIpN6m90AjmamOc8kvn2nyFUT8EccSvTNMQg1o0r_AOnyp8u8ElSEqAHfZmRbvoyEwBEf5GaZ-yviOxfS5J3xPWP6ajoj8dBBccAnZ1-Z67jEV1RDG6ObrZdvA?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.0306756,45.350286,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quiz Trees 9</name>
+      <description><![CDATA[<img src="https://doc-10-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/mjqi9mprt2rqo4a4nib3868beo/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kARhR21EcDUIjWMLMbar2metKYc-ICQUZJcLEmrN3K0AVDlS4d03KVEt1xVEFD3_-D39CxSRWNkc_URvhVebbRlZECOg8FhY4lNVUDx8Mp7wwpj6vkX5MHjxuRJAlWc6zy3aW0ED416VwxZ4iyLKU9YBTe238htseCkez73kJynA1NuivTnrRJwvwc4yalIOk?session=2&fife" height="200" width="auto" /><br><br>Eleven mature trees lie along a property boundary separating two 10 acre parcels. Eight of us are the same species. Even from a distance our size and shape are very distinctive! We are stout and hardy and long-lived, easily withstanding the cold north winds that blow down this field in winter. In fact some of us are well over 100 years old! Bluebirds nest in our cavities. Wildlife feed on the bounty of nuts we provide. Many caterpillars eat our foliage and provide food for birds. Bobolinks and Meadowlarks broadcast their songs over the field from the heights of our majestic boughs. Join us on the Carp Riverwalk to check out our leaf shape, twigs, and other characteristics to confirm our identity.  Watch your feet! An old farm fence lies on the ground where we grow.  What are we?  (Photo 3 shows the quiz answer.)<br>Bonus if you can identify the species of the other three trees (two are the same species) growing with our eight quiz trees.<br><br><img src="https://doc-04-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/44agk7568ikhcfrgjjps2q8k8k/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9l84nr3EbzOgfg5D8bnnEPNzmJJMLSn_iZ5rCvDJffYmrWQUe75ShdbgXQxr3j8ogPSvoUmBKTuHjfq6z314PG0rZa7jxC8j71B9htUBEb03rMwzafJ8qP4DxvP1TdDQTBJMXMvjz3ExfqZwV-whkSOrx7N2qRu17d5yQX7t2ECjnxw1TauEbyQkSe4rMPdljw?session=2&fife" height="200" width="auto" /><br><br><img src="https://doc-0s-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/9pm5jm5cnmvma464hldj8c2vl0/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kzdpaSwKBNpKADOfpY0QKBPzgZ-m4_RXHpy5L-dmQnwREbVnMzFPYTxIZO5Q5_cjJZy9Gps1PGSZcCYAmelmb-PCSnpnT8GdoWpPIuIrYLy7yAcWm0wqOA-bULp5Pqs9P8pT9Zi9GI5SZniWop4Lk2-WWvFemreAIBeoKTedEDaVE4ehrowlkIHQsp5DOIwpw?session=2&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1594-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/mjqi9mprt2rqo4a4nib3868beo/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kARhR21EcDUIjWMLMbar2metKYc-ICQUZJcLEmrN3K0AVDlS4d03KVEt1xVEFD3_-D39CxSRWNkc_URvhVebbRlZECOg8FhY4lNVUDx8Mp7wwpj6vkX5MHjxuRJAlWc6zy3aW0ED416VwxZ4iyLKU9YBTe238htseCkez73kJynA1NuivTnrRJwvwc4yalIOk?session=2&fife https://doc-04-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/44agk7568ikhcfrgjjps2q8k8k/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9l84nr3EbzOgfg5D8bnnEPNzmJJMLSn_iZ5rCvDJffYmrWQUe75ShdbgXQxr3j8ogPSvoUmBKTuHjfq6z314PG0rZa7jxC8j71B9htUBEb03rMwzafJ8qP4DxvP1TdDQTBJMXMvjz3ExfqZwV-whkSOrx7N2qRu17d5yQX7t2ECjnxw1TauEbyQkSe4rMPdljw?session=2&fife https://doc-0s-7c-mymaps.googleusercontent.com/untrusted/hostedimage/5gbl3fs2p4k9k6gv8roj9h5rag/9pm5jm5cnmvma464hldj8c2vl0/1669033697500/dkgn9U3WGnlj5fVl4C6ZlTyOtiOI-b6J/11389901361093363320/5AKgB-9kzdpaSwKBNpKADOfpY0QKBPzgZ-m4_RXHpy5L-dmQnwREbVnMzFPYTxIZO5Q5_cjJZy9Gps1PGSZcCYAmelmb-PCSnpnT8GdoWpPIuIrYLy7yAcWm0wqOA-bULp5Pqs9P8pT9Zi9GI5SZniWop4Lk2-WWvFemreAIBeoKTedEDaVE4ehrowlkIHQsp5DOIwpw?session=2&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.0497742,45.3509917,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

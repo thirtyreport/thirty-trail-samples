@@ -1,0 +1,111 @@
+{
+    "id": "foobar",
+    "title": "Mock Trail",
+    "description": "This is a mock trail.",
+    "points": [
+      {
+        "point": {
+          "lat": 45.401989,
+          "lon": -75.726698
+        },
+          "icon": "https://mt.googleapis.com/vt/icon/name=icons/onion/SHARED-mymaps-container-bg_4x.png,icons/onion/SHARED-mymaps-container_4x.png,icons/onion/1886-tree-deciduous_4x.png&highlight=ff000000,558B2F&scale=2.0",
+          "iconSize": {"width": 25, "height": 25},
+          "id": "1",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis odio viverra, sodales ipsum quis, rutrum ipsum. Nulla fermentum vel mi id lobortis. Aenean augue quam, congue ac est eu, interdum tempor sapien. Nullam orci leo, sagittis ut augue in, eleifend luctus quam. Pellentesque efficitur mi et metus fringilla, in placerat sapien ultricies. Nam blandit eget massa nec semper. Nulla blandit vestibulum blandit. Donec lacinia lectus ut purus euismod, eu consequat tellus convallis. Vestibulum efficitur metus non cursus lobortis. Sed id velit enim. Vestibulum justo nisl, sagittis et elementum sed, commodo sed libero. Vestibulum efficitur, massa in pretium porttitor, risus nibh dictum libero, at eleifend mi ipsum vel lorem. Morbi feugiat quam ante, a laoreet diam mollis sed. Cras porttitor placerat velit a auctor. Aenean aliquet vitae elit aliquam egestas.",
+          "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "title": "POI 0",
+          "media": [
+              {
+                  "url": "https://st.depositphotos.com/2632165/4026/i/600/depositphotos_40264933-stock-photo-young-plant.jpg"
+              },
+              {
+                  "url": "https://image.shutterstock.com/image-vector/collection-3d-realistic-vector-icon-260nw-1948554235.jpg"
+              },
+              {
+                  "url": "https://ia800701.us.archive.org/26/items/SampleVideo1280x7205mb/SampleVideo_1280x720_5mb.mp4",
+                  "video": true
+              }
+          ]
+      },
+      {
+        "point": {
+          "lat": 45.402117,
+          "lon": -75.726371
+        },
+          "icon": "https://mt.googleapis.com/vt/icon/name=icons/onion/SHARED-mymaps-container-bg_4x.png,icons/onion/SHARED-mymaps-container_4x.png,icons/onion/1886-tree-deciduous_4x.png&highlight=ff000000,558B2F&scale=2.0",
+          "iconSize": {"width": 25, "height": 25},
+          "id": "2",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis odio viverra, sodales ipsum quis, rutrum ipsum. Nulla fermentum vel mi id lobortis. Aenean augue quam, congue ac est eu, interdum tempor sapien. Nullam orci leo, sagittis ut augue in, eleifend luctus quam. Pellentesque efficitur mi et metus fringilla, in placerat sapien ultricies. Nam blandit eget massa nec semper. Nulla blandit vestibulum blandit. Donec lacinia lectus ut purus euismod, eu consequat tellus convallis. Vestibulum efficitur metus non cursus lobortis. Sed id velit enim. Vestibulum justo nisl, sagittis et elementum sed, commodo sed libero. Vestibulum efficitur, massa in pretium porttitor, risus nibh dictum libero, at eleifend mi ipsum vel lorem. Morbi feugiat quam ante, a laoreet diam mollis sed. Cras porttitor placerat velit a auctor. Aenean aliquet vitae elit aliquam egestas.",
+          "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "title": "POI 1",
+          "media": [
+              {
+                  "url": "https://st.depositphotos.com/2632165/4026/i/600/depositphotos_40264933-stock-photo-young-plant.jpg"
+              },
+              {
+                  "url": "https://image.shutterstock.com/image-vector/collection-3d-realistic-vector-icon-260nw-1948554235.jpg"
+              }
+          ]
+      },
+      {
+        "point": {
+          "lat": 45.401872,
+          "lon": -75.726183
+        },
+          "icon": "https://mt.googleapis.com/vt/icon/name=icons/onion/SHARED-mymaps-container-bg_4x.png,icons/onion/SHARED-mymaps-container_4x.png,icons/onion/1886-tree-deciduous_4x.png&highlight=ff000000,558B2F&scale=2.0",
+          "iconSize": {"width": 25, "height": 25},
+          "id": "3",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis odio viverra, sodales ipsum quis, rutrum ipsum. Nulla fermentum vel mi id lobortis. Aenean augue quam, congue ac est eu, interdum tempor sapien. Nullam orci leo, sagittis ut augue in, eleifend luctus quam. Pellentesque efficitur mi et metus fringilla, in placerat sapien ultricies. Nam blandit eget massa nec semper. Nulla blandit vestibulum blandit. Donec lacinia lectus ut purus euismod, eu consequat tellus convallis. Vestibulum efficitur metus non cursus lobortis. Sed id velit enim. Vestibulum justo nisl, sagittis et elementum sed, commodo sed libero. Vestibulum efficitur, massa in pretium porttitor, risus nibh dictum libero, at eleifend mi ipsum vel lorem. Morbi feugiat quam ante, a laoreet diam mollis sed. Cras porttitor placerat velit a auctor. Aenean aliquet vitae elit aliquam egestas.",
+          "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "title": "POI 2",
+          "media": [
+              {
+                  "url": "https://st.depositphotos.com/2632165/4026/i/600/depositphotos_40264933-stock-photo-young-plant.jpg"
+              },
+              {
+                  "url": "https://image.shutterstock.com/image-vector/collection-3d-realistic-vector-icon-260nw-1948554235.jpg"
+              }
+          ]
+      },
+      {
+        "point": {
+          "lat": 45.40145,
+          "lon": -75.725957
+        },
+          "icon": "https://mt.googleapis.com/vt/icon/name=icons/onion/SHARED-mymaps-container-bg_4x.png,icons/onion/SHARED-mymaps-container_4x.png,icons/onion/1886-tree-deciduous_4x.png&highlight=ff000000,558B2F&scale=2.0",
+          "iconSize": {"width": 25, "height": 25},
+          "id": "4",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis odio viverra, sodales ipsum quis, rutrum ipsum. Nulla fermentum vel mi id lobortis. Aenean augue quam, congue ac est eu, interdum tempor sapien. Nullam orci leo, sagittis ut augue in, eleifend luctus quam. Pellentesque efficitur mi et metus fringilla, in placerat sapien ultricies. Nam blandit eget massa nec semper. Nulla blandit vestibulum blandit. Donec lacinia lectus ut purus euismod, eu consequat tellus convallis. Vestibulum efficitur metus non cursus lobortis. Sed id velit enim. Vestibulum justo nisl, sagittis et elementum sed, commodo sed libero. Vestibulum efficitur, massa in pretium porttitor, risus nibh dictum libero, at eleifend mi ipsum vel lorem. Morbi feugiat quam ante, a laoreet diam mollis sed. Cras porttitor placerat velit a auctor. Aenean aliquet vitae elit aliquam egestas.",
+          "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "title": "POI 3",
+          "media": [
+              {
+                  "url": "https://st.depositphotos.com/2632165/4026/i/600/depositphotos_40264933-stock-photo-young-plant.jpg"
+              },
+              {
+                  "url": "https://image.shutterstock.com/image-vector/collection-3d-realistic-vector-icon-260nw-1948554235.jpg"
+              }
+          ]
+      },
+      {
+        "point": {
+          "lat": 45.400847,
+          "lon": -75.725575
+        },
+          "icon": "https://mt.googleapis.com/vt/icon/name=icons/onion/SHARED-mymaps-container-bg_4x.png,icons/onion/SHARED-mymaps-container_4x.png,icons/onion/1886-tree-deciduous_4x.png&highlight=ff000000,558B2F&scale=2.0",
+          "iconSize": {"width": 25, "height": 25},
+          "id": "5",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis odio viverra, sodales ipsum quis, rutrum ipsum. Nulla fermentum vel mi id lobortis. Aenean augue quam, congue ac est eu, interdum tempor sapien. Nullam orci leo, sagittis ut augue in, eleifend luctus quam. Pellentesque efficitur mi et metus fringilla, in placerat sapien ultricies. Nam blandit eget massa nec semper. Nulla blandit vestibulum blandit. Donec lacinia lectus ut purus euismod, eu consequat tellus convallis. Vestibulum efficitur metus non cursus lobortis. Sed id velit enim. Vestibulum justo nisl, sagittis et elementum sed, commodo sed libero. Vestibulum efficitur, massa in pretium porttitor, risus nibh dictum libero, at eleifend mi ipsum vel lorem. Morbi feugiat quam ante, a laoreet diam mollis sed. Cras porttitor placerat velit a auctor. Aenean aliquet vitae elit aliquam egestas.",
+          "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "title": "POI 4",
+          "media": [
+              {
+                  "url": "https://st.depositphotos.com/2632165/4026/i/600/depositphotos_40264933-stock-photo-young-plant.jpg"
+              },
+              {
+                  "url": "https://image.shutterstock.com/image-vector/collection-3d-realistic-vector-icon-260nw-1948554235.jpg"
+              }
+          ]
+      }
+    ]
+  }
