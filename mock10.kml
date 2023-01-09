@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Hidden Lake Area test.kml</name>
+	<StyleMap id="msn_22330-deciduous-tree-icon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_22330-deciduous-tree-icon1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_22330-deciduous-tree-icon0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_22330-deciduous-tree-icon2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_22330-deciduous-tree-icon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_22330-deciduous-tree-icon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_22330-deciduous-tree-icon0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_22330-deciduous-tree-icon20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_22330-deciduous-tree-icon1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_22330-deciduous-tree-icon00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_22330-deciduous-tree-icon2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_22330-deciduous-tree-icon3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_22330-deciduous-tree-icon1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_22330-deciduous-tree-icon0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_22330-deciduous-tree-icon2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Icon 1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Icon 1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Icon 1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Icon 2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Icon 2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Icon 2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Video">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Video</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Video</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_parks">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_parks</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_parks</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_22330-deciduous-tree-icon">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/16/22330-deciduous-tree-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_22330-deciduous-tree-icon0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/16/22330-deciduous-tree-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_22330-deciduous-tree-icon1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/16/22330-deciduous-tree-icon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_22330-deciduous-tree-icon3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/16/22330-deciduous-tree-icon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_22330-deciduous-tree-icon2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/16/22330-deciduous-tree-icon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_Icon 1">
+		<IconStyle>
+			<Icon>
+				<href>https://icons.iconarchive.com/icons/google/noto-emoji-travel-places/16/42474-national-park-icon.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_Icon 2">
+		<IconStyle>
+			<Icon>
+				<href>https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/16/22329-evergreen-tree-icon.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_Video">
+		<IconStyle>
+			<Icon>
+				<href>https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/16/22330-deciduous-tree-icon.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_parks">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/parks.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_22330-deciduous-tree-icon">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/16/22330-deciduous-tree-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_22330-deciduous-tree-icon1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/16/22330-deciduous-tree-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_22330-deciduous-tree-icon0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/16/22330-deciduous-tree-icon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_22330-deciduous-tree-icon2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/16/22330-deciduous-tree-icon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_22330-deciduous-tree-icon20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/16/22330-deciduous-tree-icon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_Icon 1">
+		<IconStyle>
+			<Icon>
+				<href>https://icons.iconarchive.com/icons/google/noto-emoji-travel-places/16/42474-national-park-icon.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_Icon 2">
+		<IconStyle>
+			<Icon>
+				<href>https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/16/22329-evergreen-tree-icon.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_Video">
+		<IconStyle>
+			<Icon>
+				<href>https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/16/22330-deciduous-tree-icon.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_parks">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/parks.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Hidden Lake Area</name>
+		<open>1</open>
+		<Placemark>
+			<name>Tamarack (aka Larch)</name>
+			<description><![CDATA[<img style="max-height:300px;" src="https://drive.google.com/uc?export=view&id=1Pr2K_NVd1m7Vas-T7Y5FNIdeHy5MCmzn"><img style="max-width:300px;" src="https://drive.google.com/uc?export=view&id=14CPtXHrb5OegBSAHLqHmlwUDPzaA_PAb">Larch.  It's hard not to think of Monty Python's Lumberjack sketch!  But the common name for our native larch is Tamarack.  It's distinguished by being the only conifer that is deciduous.  Its needles, in tufts of 15 or more, turn a brilliant golden yellow in autumn and then fall off.  New needles emerge in the spring like other deciduous trees along with small, rosy pink cones.  Tamaracks are large trees that grow in swamps and wetlands; they can tolerate some drought, but will not be robust.  The city planted these two trees, and other native species, to naturalize the perimeter of the stormwater dry pond.  The Tamarack is host for many moth larva, which feed other wildlife.  If you have the space, plant our native Tamarack and not the European Larch.  Provide it will full sun and consistent moisture and enjoy its delicate beauty.  To learn more about Tamaracks:  https://arboretum.uoguelph.ca/thingstosee/trees/tamarack]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2022-06-30T22:51:33Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-76.03736619215275</longitude>
+				<latitude>45.35172399609991</latitude>
+				<altitude>0</altitude>
+				<heading>0.1519535150371348</heading>
+				<tilt>30.72072326585216</tilt>
+				<range>243.8911443051275</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_parks</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.03763554581211,45.35158320093235,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Slippery Elm</name>
+			<description>Many people don&apos;t know that there are three native elm trees that grow in Ottawa:  American Elm, Slippery Elm, and Rock Elm.  Slippery Elm is distinguished from the more common American Elm by its scaly bark, upright growth form, and large leaves.  Like other elms, Slippery Elm is susceptible to Dutch Elm Disease.  It is much less common than American Elm, but there is a scattered population of them in Kanata North and in the Carp Hills where the Precambrain bedrock is not acidic gneiss. A Slippery Elm also grows in the St. James Cemetery.
+The name &quot;Slippery&quot; comes from the muscilaginous bark, which has medicinal use as a demulcent, soothing irritation in the gut.
+To learn more about Slippery Elm and how to identify it: https://treescanadensis.ca/ulmus-rubra-slippery-elm/</description>
+			<LookAt>
+				<gx:TimeStamp><when>2022-06-30T22:51:33Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-76.0365548415383</longitude>
+				<latitude>45.35201898059304</latitude>
+				<altitude>0</altitude>
+				<heading>0.1525307343441653</heading>
+				<tilt>31.37125725476881</tilt>
+				<range>372.197572469034</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_22330-deciduous-tree-icon00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.03644300000001,45.352019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rock Elm</name>
+			<description><![CDATA[<img style="max-width:200px;" src="https://drive.google.com/uc?export=view&id=19__L8MGQIFPm483lBVhS1L0q6VKC5UdQ">Many people don't know that there are three native elm trees that grow in Ottawa:  American Elm, Slippery Elm, and Rock Elm.  Rock Elm is distinguished from the more common American Elm by its preference for rocky alkaline uplands, its corky twigs (similar to Bur Oak), and its downward arching lower branches.  Like other elms, Rock Elm is susceptible to Dutch Elm Disease.  It is much less common than American Elm, but there is a widespread population of them in North Kanata.  In Carp, they grow on the Ridge in the few places where the Precambrain bedrock is marble (alkaline) instead of acidic gneiss.  Can you identify smaller Rock Elms (and Slippery Elms) growing along this side of Juanita Avenue as you walk up the hill?
+Learn more about Rock Elms: https://treescanadensis.ca/ulmus-thomasii-rock-elm/]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2022-06-30T22:51:33Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-76.03622747448472</longitude>
+				<latitude>45.35222539369134</latitude>
+				<altitude>0</altitude>
+				<heading>131.8509097435518</heading>
+				<tilt>45.49800149571307</tilt>
+				<range>102.5879638951178</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_22330-deciduous-tree-icon0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.0361618781785,45.3522284376029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hidden Lake Park</name>
+			<description><![CDATA[<img style="max-width:500px;" src="https://drive.google.com/uc?export=view&id=1w_RTOzzOurtkx6hFAmcIi0AsRG2mpUoQ">The 650 meter pathway through Hidden Lake Park showcases many trees in a natural woodland setting. Unlike most of the acidic Carp Ridge, the bedrock in the park is Precambrian marble (alkaline and calcium), which means that more species of plants can grow here due to better nutrient availability. Some tree indicators of this soil chemistry are the Eastern White Cedars, Black Cherries, Sugar Maples, Butternuts, and Basswood. Plant indicators are Prickly Ash, White Trillium, and Bluestem Goldenrod. Other trees that grow here are: Red Maple, White Pine, Red Oak, American Elm, and Red Maple. You should be able to use your tree ID skills from individual trees on this walking tour to find these trees!  The Hidden Lake woodland is probably less than 90 years old. Counting the rings on a recently removed large White Pine stump yields a number around 75. If you'd like to learn about how soil chemistry affects what plants will grow, read the Crazy Horse Trail interpretive guide, which describes the abrupt change from marble to gneissic bedrock on the trail. https://carphills.com/?page_id=393]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2005-05-17T22:00:35.461896419Z</when>
+</gx:TimeStamp>
+				<longitude>-76.03959391549927</longitude>
+				<latitude>45.35467298591907</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002347895128901839</heading>
+				<tilt>22.34382490328018</tilt>
+				<range>562.5819686951911</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Icon 1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.03752780382784,45.35416423305513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paper Birch</name>
+			<description><![CDATA[<img style="max-width:250px;" src="https://drive.google.com/uc?export=view&id=1cR9oqtN2aYFzIzJlM7nL5bkz_BhkIkcH"> <img style="max-width:300px;" src="https://drive.google.com/uc?export=view&id=1IA4F85Al-G5G7gimmW5U2JYVJrQrxxwK"> <img style="max-width:250px;" src="https://drive.google.com/uc?export=view&id=1OU6J8--YROxvL7sxja1TOc9ByB1kv1Za">Paper Birch is an iconic Canadian tree.  Its bark is waterproof, hence its use by First Nations peoples for birch bark canoes.  There are many mature Paper Birch growing in Hidden Lake Park.  This is a young sapling whose bark and leaves you can easily examine.  Note that the bark peels in curling, horizontal sheets, revealing a light orange inner bark.  This is a major differentiator from European White Birch, whose bark peels in thin, horizontal strands with light grey inner bark.  European White Birch are planted on lawns throughout Carp.  They have a weeping appearance from their pendulous branches.  Our native Paper Birch is a better choice for the benefits it provides to wildlife.  It's also highly tolerant of many conditions, but needs full sun and will likely not live longer than 80 years.  Learn more about Paper Birch:  https://arboretum.uoguelph.ca/thingstosee/trees/paperbirch]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2005-05-17T22:00:35.461896419Z</when>
+</gx:TimeStamp>
+				<longitude>-76.03959391549927</longitude>
+				<latitude>45.35467298591907</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002347895128901839</heading>
+				<tilt>22.34382490328018</tilt>
+				<range>562.5819686951911</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_22330-deciduous-tree-icon</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.03746933043109,45.35439554352804,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eastern White Cedar</name>
+			<description><![CDATA[<img style="max-width:500px;" src="https://drive.google.com/uc?export=view&id=1kSYOFtJTIi6Mqu-vslyszZ5dGyaUApkD"><img style="max-width:500px;" src="https://drive.google.com/uc?export=view&id=1-mYPnXy-9_6kZY6AhEIBnAP4xquzpNDm">This Eastern White Cedar growing at the base of the stairs is probably 100 years old.  How do we know?  You can roughly estimate a cedar's age by its diameter.  Every one foot of diameter equals 100 years of growth.  This is approximate since growing conditions can vary, but the method has proven to be a pretty good rule of thumb.
+Did you know that there are Old Growth Eastern White Cedars growing in a suburban woodland in Stittsville?  At least of the trees are over 200 years old (from core samples) making them older than Confederation!
+Find out more about Kemp Woodland:  https://treescanadensis.ca/kemp-woodland/]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2015-03-25T06:41:06.496514374Z</begin>
+					<end>2022-08-20T16:30:03Z</end>
+				</gx:TimeSpan>
+				<longitude>-76.03916760987389</longitude>
+				<latitude>45.35465360538678</latitude>
+				<altitude>0</altitude>
+				<heading>-2.864389262965992</heading>
+				<tilt>31.47386538817205</tilt>
+				<range>646.9124523034104</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Icon 2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.03805147337543,45.35477522479615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Black ash</name>
+			<description><![CDATA[<img style="max-width:300px;" src="https://drive.google.com/uc?export=view&id=1Qyv-AK2hYaODwmLn9e7lapV9fWO3TJhF"><img style="max-width:300px;" src="https://drive.google.com/uc?export=view&id=1051nfLhADYiy5da7f3QKc_uCjIO9FFVi">A young Black Ash grows on the south side of the trail. The bark has raised, corky ridges which are quite different from the interlaced diamond pattern of White Ash.  The presence of Black Ash indicates that this area used to be much wetter since it prefers swampy conditions.  Black Ash was recently declared Endangered due to its destruction by the Emerald Ash Borer, an Asian insect.  Black Ash is of cultural significance to Indigenous peoples who used its flexible wood to make woven baskets, snowshoes, and canoe ribs.  The seeds of the Black Ash provide essential food for wild turkeys, grouse, and small mammals.
+For more information about Black Ash: https://www.ontario.ca/page/black-ash-0
+]]></description>
+			<TimeStamp><when>2022-10-30T13:36:37Z</when>
+</TimeStamp>
+			<styleUrl>#msn_22330-deciduous-tree-icon2</styleUrl>
+			<ExtendedData>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.040836,45.355763,93</coordinates>
+			</Point>
+			<atom:author>
+        <atom:name></atom:name>
+      </atom:author><atom:link href=""></atom:link>
+		</Placemark>
+		<Placemark>
+			<name>Prickly Ash</name>
+			<description><![CDATA[<img style="max-width:500px;" src="https://drive.google.com/uc?export=view&id=1tukTCdpUNStjjVH-GeyYfVtovdeZt2cg">Right where the path makes a sharp turn to the south is a patch of Prickly Ash. And here is the problem with common names: this plant is not an Ash and it's not even a tree! It is a small shrub that looks like an Ash, but with vicious thorns. It prefers alkaline growing conditions and loves the calcium in the bedrock of Hidden Lake. What makes this plant particularly special is that it is in the Citrus family. Yep, it's related to oranges and tangerines. Our largest butterfly, the Giant Swallowtail, must lay its eggs on citrus plants. So Prickly Ash is the only native plant in our area that allows the Giant Swallowtail butterfly to reproduce here. In fact, the Giant Swallowtail has only recently extended its range north into the Ottawa Valley and you can thank Prickly Ash!
+(Note: the Hop Tree that is native to southern Ontario is also in the Citrus family and is also a host for the Giant Swallowtail larva.)
+Learn more about Prickly Ash and butterflies: https://beauxarbres.ca/2018/09/16/giant-swallowtail-caterpillar/]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2022-09-10T02:24:53.092106223Z</begin>
+					<end>2022-12-02T00:03:29.092106223Z</end>
+				</gx:TimeSpan>
+				<longitude>-76.04020366990628</longitude>
+				<latitude>45.35489491649186</latitude>
+				<altitude>0</altitude>
+				<heading>6.11954623486988e-11</heading>
+				<tilt>36.59542053675881</tilt>
+				<range>418.7915821064554</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_22330-deciduous-tree-icon1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.04132799999999,45.355528,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Butternut</name>
+			<description><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/-r8DO1YX7Jo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Hidden Lake Park is home to two mature Butternuts. Both are infected with the Butternut canker fungus, but this one seems to be doing well. Most Butternuts die within a couple of years from this infection, which looks like black, rotting lesions on the bark. Ontario has designated Butternuts as Endangered. To find this tree, search on the south side of the trail about 50 meters from the Prickly Ash. Look for dark brown bark with interlaced ridges. Look up to see grey/brown limbs spread wide with leaves growing in a line opposite each other like a fern. The Butternut's nut is nutritious and rich in oil. The death of these trees is a loss for wildlife and humans.
+Read more about Butternuts: https://www.ontario.ca/page/butternut-species-risk
+Read more about Butternut canker: https://www.ontario.ca/page/butternut-canker]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2022-09-10T02:24:53.092106223Z</begin>
+					<end>2022-12-02T00:03:29.092106223Z</end>
+				</gx:TimeSpan>
+				<longitude>-76.04020366990628</longitude>
+				<latitude>45.35489491649186</latitude>
+				<altitude>0</altitude>
+				<heading>6.11954623486988e-11</heading>
+				<tilt>36.59542053675881</tilt>
+				<range>418.7915821064554</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Video</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.041175,45.355325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ironwood</name>
+			<description><![CDATA[<img style="max-width:250px;" src="https://drive.google.com/uc?export=view&id=1DFpNlON26zCS82chlRCGSqTbtqXkeRSC">Ironwood is a slow growing, understory tree famous for the density of its wood. It is in the same family as Birch trees. Its attractive, hop-like fruiting clusters give it another common name, Hop Hornbeam, but it is not a Hop tree. It is relatively easy to identify when mature due to its vertically shaggy bark. Ironwood provides food for wildlife and many insects. Cows like it too! Multi-stemmed Ironwoods in the Carp Hills are evidence of past cattle grazing. Ironwood is not usually grown as a yard tree, but would be appropriate for a shady area.
+Learn more about Ironwood: https://arboretum.uoguelph.ca/thingstosee/trees/ironwood]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2022-09-10T02:24:53.092106223Z</begin>
+					<end>2022-12-02T00:03:29.092106223Z</end>
+				</gx:TimeSpan>
+				<longitude>-76.04122141491762</longitude>
+				<latitude>45.35486846124984</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0007240954099696213</heading>
+				<tilt>36.59542053665345</tilt>
+				<range>418.7915753826005</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_22330-deciduous-tree-icon0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.042214,45.355217,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
